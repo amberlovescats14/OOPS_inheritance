@@ -15,9 +15,9 @@ public class Main {
 
 //-----------------------
         // DOWNCASTING
-        var ui = new UIControl(true);
-        var box = new TextBox();
-        show(ui);
+//        var ui = new UIControl(true);
+//        var box = new TextBox();
+//        show(ui);
 //------------------------
         var point1 = new Point(1, 2);
         var point2 = new Point(1,2);
@@ -26,6 +26,19 @@ public class Main {
 
         //after override
         System.out.println(point1.equals(point2)); //true
+
+//-----------------------------
+        //Polymorphism
+        UIControl[] controls = {new TextBox(), new CheckBox()}; //could have a radioo buttono
+        for (var c : controls){
+            // if control is a TextBox => render something
+            // else if checkbox => render CheckBox
+            c.render();
+
+        }
+ //--------------------------
+        //ABSTRACT CLASS
+
 
     }
         // OUTSIDE THE MAIN

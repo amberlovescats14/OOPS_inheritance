@@ -5,10 +5,17 @@ package com.amber;
 public class TextBox extends UIControl{
     private String text = "";
 
-    public TextBox() {
-        super(true);
-        System.out.println("TextBox");
+//    public TextBox() {
+//        super(true);
+//        System.out.println("TextBox");
+//    }
+
+
+    @Override
+    public void render() {
+        System.out.println("Render TEXT BOX");
     }
+
     @Override
     public String toString(){
         return text;
