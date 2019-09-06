@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c8ea206-c979-4fc8-968e-6d1980eb14de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/amber/CheckBox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/inheritance/com/amber/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inheritance/com/amber/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/inheritance/com/amber/Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inheritance/com/amber/Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/inheritance/com/amber/TextBox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inheritance/com/amber/TextBox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/inheritance/com/amber/UIControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/inheritance/com/amber/UIControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/amber/CheckBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amber/CheckBox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/amber/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amber/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/amber/TextBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amber/TextBox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/amber/UIControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/amber/UIControl.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />

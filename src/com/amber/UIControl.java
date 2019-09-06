@@ -4,6 +4,8 @@ public abstract class UIControl {
     //PROTECTED && DEFAULT - bad practice
     // it means it is only accessible within this package -- not agile
 
+    // if a class is ABSTRACT, u can ONLY EXTEND not Instantiate
+
 
     private boolean isEnabled = true;
 
@@ -31,4 +33,6 @@ public abstract class UIControl {
     public boolean isEnabled() {
         return isEnabled;
     }
+
+
 }
